@@ -1,0 +1,21 @@
+.btn-grad {background-color: #39aee6;cursor: pointer;}
+.btn-grad:hover { opacity: 0.9;box-shadow: 1px 1px 3px #ccc; }
+body {
+	font-family: Open Sans;
+	background-color: #f1f3f6;
+}
+select {
+    padding: 5px 10px;
+    font-family: open sans;
+}
+main {
+    padding-top: 45px;
+}
+button.btn {
+	padding: 10px;
+    border: 0;
+    color: #fff;
+    border-radius: 3px;
+    font-family: open sans;
+    text-transform: uppercase;
+}
